@@ -1,12 +1,11 @@
-# Big Game Survey 
+# Pygame Shooter 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/candidovitor/Pygame-Shooter-/blob/main/LICENSE) 
 
 # Sobre o projeto
-************************
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Pygame Shooter is an application developed using python and library Pygame and was made inspiring in a course of the creator: (https://github.com/russs123) and translated for portuguese
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+The game idea is finish the level with deing for the enemies and kill them. 
 
 ## Home Screen
 ![Mobile 1](https://github.com/candidovitor/Pygame-Shooter-/blob/main/assets/inicio.png) 
@@ -20,30 +19,29 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ![Grenade](https://github.com/candidovitor/Pygame-Shooter-/blob/main/assets/granada_funcionalidade.png)
 ![Tiro](https://github.com/candidovitor/Pygame-Shooter-/blob/main/assets/matando_inimigo.png)
 
-# Tecnologias utilizadas
+# Tecnologies used
 ## Back end
-- a
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- Python 
+- Pygame
+
 ## Front end
 - Image PNG
 - 
 
-# Como executar o projeto
+# How to run the project
 
-Pré-requisitos: Python 3
+Prerequisites: Python 3
 
-```bash
-# clonar repositório
+```
+# clone repository
 git clone https://github.com/candidovitor/Pygame-Shooter-
 
-# executar o projeto
+# Run the script
 pyhton3 jogo.py
 ```
 
 
-# Autor
+# Author
 
 Vítor Cândido Rodrigues
 
