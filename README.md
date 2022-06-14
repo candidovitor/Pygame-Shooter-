@@ -1,7 +1,7 @@
 # Pygame Shooter 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/candidovitor/Pygame-Shooter-/blob/main/LICENSE) 
 
-# Sobre o projeto
+# About the project
 
 Pygame Shooter is an application developed using python and library Pygame and was made inspiring in a course of the creator: (https://github.com/russs123) and translated for portuguese
 
